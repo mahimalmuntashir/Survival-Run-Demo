@@ -1,5 +1,8 @@
-# Survival-Run
+# Survival-Run-Demo
 A 2D Running Game projest using C++ and SDL2 libraries.
+
+This is a demo version of the game. Contact me for Premium Version.
+
 * Library Pre-requisites : 
   * ```Linux```:
     * Debian Based Distributions : 
