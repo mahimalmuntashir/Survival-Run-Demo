@@ -37,4 +37,4 @@ A 2D Running Game projest using C++ and SDL2 libraries.
        make
       ``` 
       # Video 
-      mahimalmuntashir.github.io
+      https://youtu.be/Vg0qCS1bVhU
