@@ -1,0 +1,20 @@
+For Linux  : 
+
+	(SDL2.h,SDL2_image.h,SDL2_ttf.h,SDL2_mixer.h must be installed)
+	(1) make
+	(2) ./survivalRun
+
+
+
+For Windows : 
+	
+	For 32 bit mingw compiler : Use this command to run the code (mingw compiler must be installed )
+	(1) g++ src/*.cpp -Iinclude32 -Llib32 -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf -o winexe32bit/survivalRun.exe
+	(2) cd winexe32bit
+	(3) .\survivalRun.exe
+
+		
+	For 64 bit mingw compiler : Use this command to run the code (mingw compiler must be installed )
+	(1) g++ src/*.cpp -Iinclude64 -Llib64 -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf -o winexe64bit/survivalRun.exe
+	(2) cd winexe64bit
+	(3) .\survivalRun.exe
