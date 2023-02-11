@@ -39,5 +39,5 @@ This is a demo version of the game. Contact me for Premium Version.
       ```
        make
       ``` 
-      # Video 
+# Video 
       https://youtu.be/Vg0qCS1bVhU
